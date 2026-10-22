@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ক্যাপশনক্রাফট এআই</string>
+    <string name="tagline">বাংলাদেশ ও বিশ্বমানের কনটেন্ট ক্রিয়েটরদের জন্য সোশ্যাল মিডিয়া ক্যাপশন</string>
+    <string name="generate_caption">ক্যাপশন তৈরি করুন</string>
+</resources>
